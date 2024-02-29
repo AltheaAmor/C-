@@ -1,0 +1,13 @@
+
+		ABC COMPANY
+		Makati City
+
+		Payroll
+
+
+	    Employee Number	  Employee Name	    Status Code	   Basic Salary	 Overtime Hours	     Deductions	        Net Pay
+
+	                  1	          ffres	        Regular	           0.00	           0.00	         400.00	        -400.00
+	                  2	          gfdgs	        Regular	           0.00	           5.00	         435.00	        -435.00
+	                  	         ddfsdg	        Regular	           0.00	           0.00	         342.00	        -342.00
+	                 32	          fdgdt	        Regular	       45256.00	           9.00	        6789.00	       42285.47
